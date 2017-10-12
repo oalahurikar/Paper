@@ -6,3 +6,5 @@ It can be difficult to transform whole state distribution through nonlinear func
 | header 1 | header 2 |
 | -------- | -------- |
 | ![alt_text-1](https://github.com/oalahurikar/Paper/blob/master/Images/Sig%20Pts%20Trans.png) | ![alt_text-2](https://github.com/oalahurikar/Paper/blob/master/Images/Sig%20Pts%20dis.png)   |
+
+
